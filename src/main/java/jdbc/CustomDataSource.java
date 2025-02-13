@@ -12,7 +12,6 @@ import java.sql.SQLException;
 import java.sql.SQLFeatureNotSupportedException;
 import java.util.logging.Logger;
 import java.util.Properties;
-import jdbc.CustomConnector;
 
 @Getter
 @Setter
